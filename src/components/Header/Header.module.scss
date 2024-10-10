@@ -1,0 +1,18 @@
+.wrapper{
+  border-bottom: 1px solid #ccc;
+}
+
+.menu-item{
+  color: #fff;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.active{
+  color: rgb(14 165 233) !important;
+}
+.right-container{
+  align-items: center;
+}
